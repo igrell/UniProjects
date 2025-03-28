@@ -2,7 +2,7 @@
 
 This is the portfolio of some projects I've written across the years as part of courses of Bachelor's degree in Computer Mathematics and Master's degree in Computer Science, comprising courses such as "Programming", "Methods of Programming", "Algorithms and Data Structures" and "Numerical Methods". I've categorized the projects according to the programming language in which they were written.
 
-Outline of the projects:
+Overview of the projects:
 * `dynamic_memory`
 * `structs`
 * `geometric_sequences`
