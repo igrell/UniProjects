@@ -21,4 +21,4 @@ Outline of the projects:
 * `song_shuffling`
 * `trains`
 * `traingles`
-* `FFT`
+* `fft_polynomials`
