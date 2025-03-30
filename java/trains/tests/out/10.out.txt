@@ -1,0 +1,9 @@
+T1: W1
+Train T1 already exists
+T1: W1 W2
+T1: W1
+T2: W2
+T3: W1
+T2: W2
+Train T1 does not exist
+Trains: T3 T2

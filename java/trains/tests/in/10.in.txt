@@ -1,0 +1,15 @@
+1
+13
+New T1 W1
+Display T1
+New T1 W0
+InsertLast T1 W2
+Display T1
+DelLast T1 T2
+Display T1
+Display T2
+DelFirst T1 T3
+Display T3
+Display T2
+Display T1
+Trains
